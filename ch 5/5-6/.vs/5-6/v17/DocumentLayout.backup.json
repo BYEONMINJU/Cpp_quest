@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\git_code\\ch 5\\5-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5475202-3076-4AC6-837E-86772EDC2CB2}|5-6\\5-6.vcxproj|C:\\Users\\HOME\\Desktop\\git_code\\ch 5\\5-6\\5-6\\5-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5475202-3076-4AC6-837E-86772EDC2CB2}|5-6\\5-6.vcxproj|solutionrelative:5-6\\5-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5-6.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\git_code\\ch 5\\5-6\\5-6\\5-6.cpp",
+              "RelativeDocumentMoniker": "5-6\\5-6.cpp",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\git_code\\ch 5\\5-6\\5-6\\5-6.cpp*",
+              "RelativeToolTip": "5-6\\5-6.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T09:54:33.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
